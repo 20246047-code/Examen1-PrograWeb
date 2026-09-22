@@ -1,0 +1,17 @@
+TEXTOS DE LA PÁGINA (Pregunta 1)
+
+Cabecera
+  Menú: Cómics | Manga | Novelas gráficas | Preventas | Tiendas
+
+Banner
+  EDICIÓN DE COLECCIÓN
+  CENTINELA
+  La guardiana regresa
+  La saga completa en seis tomos de tapa dura, con portadas alternativas y páginas inéditas. Preventa disponible hasta el 30 de septiembre.
+  Botón: Comprar ahora
+
+Los más vendidos
+  Centinela #1        | Superhéroes      | S/ 35.00  | centinela.png
+  Ronin de Neón #7    | Ciencia ficción  | S/ 42.00  | ronin-de-neon.png
+  Detective Búho #3   | Misterio         | S/ 29.00  | detective-buho.png
+  Astro Gato #12      | Infantil         | S/ 25.00  | astro-gato.png

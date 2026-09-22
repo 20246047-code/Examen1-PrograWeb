@@ -1,0 +1,65 @@
+html, body{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#cabecera{
+    background-color: #b5121b   ;
+}
+
+#cabecera ul li {
+    list-style-type: none;
+
+}
+#cabecera ul li a{
+    color:white;
+}
+#cabecera ul{
+    display: flex;
+    margin-left: 1000px;
+    word-spacing: 8px;
+
+
+}
+
+#banner{
+    background-image: url('imagenes/banner.png');
+    display: block;
+    background-repeat: no-repeat;
+    background-size: cover; 
+}
+#banner p{
+    padding: 10px 20px;
+    color: goldenrod;
+    margin: 20px;
+}
+#banner h1{
+    color: white;
+    margin: 20px;
+    font-size: 80px;
+}
+#banner h3{
+    color: white;
+    margin: 20px;
+}
+#banner h2{
+    color: white;
+    margin: 20px;
+    font-size: 15px;
+
+
+}
+
+#banner button{
+    border-radius: 8px;
+    padding: 10px 20px;
+    background-color: yellow;
+    border: none;
+    cursor: pointer;
+    padding: 12px;
+    font-size: 15px;
+}
+
+#catalogo{
+    display: flex;
+}
